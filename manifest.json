@@ -1,5 +1,5 @@
 {
-    "name": "Unified Item Descriptions",
+    "name": "UnifiedItemDescriptions",
     "version_number": "1.0.0",
     "website_url": "https://github.com/Zenithrium/UnifiedItemDescriptions",
     "description": "Attempts to rephrase item descriptions in SotS to be more similar to previous item descriptions and to improve item effect clarity.",
